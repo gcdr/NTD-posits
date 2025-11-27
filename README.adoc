@@ -1,1 +1,26 @@
-# NTD-posits
+= NTD-posits Repository
+Glen Ritchie
+v1.0, Nov 2025
+:toc:
+
+== Introduction:
+
+* _Datasets source repository for G. Ritchie Number Triangles Datasets: NTD-posits_
+
+=== Statistics:
+
+* Repository Started: Nov 2025 - ..
+* Base Name: ??
+
+=== License:
+
+* Owned by Glen Ritchie, (c) 2025 - ..
+
+## Who do I talk to?
+
+* The hand!
+
+## Why Support Open Source?
+
+* _If I have to tell you this? Why are you here._
+
