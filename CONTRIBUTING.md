@@ -2,13 +2,13 @@
 
 Thank you for considering a contribution! This guide explains how to report issues, propose changes, and submit pull requests to keep everything running smoothly.
 
-## Getting started
+## Getting Started
 
 - Fork the repository and create a feature branch from main (for example, feature/my-change).
   Set up the project locally following the steps in [README.adoc](README.adoc).
   Make small, focused changes rather than large, mixed updates.
 
-## How to report issues
+## How to Report Issues
 
 - Search existing issues to see if your problem or idea is already tracked.
 - When opening a new issue, include:
@@ -17,13 +17,13 @@ Thank you for considering a contribution! This guide explains how to report issu
   - Environment details (OS, language/runtime versions, etc.).
 
 
-## How to propose changes
+## How to Propose Changes
 
 - For larger changes, open an issue first to discuss the idea before coding.
 - Describe motivation, alternatives considered, and potential impact on existing users.
 - Keep each pull request's scope small and focused on a single concern.
 
-## Coding standards
+## Coding Standards
 
 - Follow the existing code style; match formatting, naming, and patterns already in the codebase/datasets.
   - Follow the format specified for Number triangle datasets, as saved by the NTA2 app.
@@ -32,7 +32,7 @@ Thank you for considering a contribution! This guide explains how to report issu
 - Add or update tests to cover your changes when applicable.
 - Ensure the test suite and linters pass before opening a pull request.
 
-## Pull request process
+## Pull Request Process
 
 - Push your branch to your fork and open a pull request against the main branch of this repository.
 - Use a clear title and describe:
@@ -42,7 +42,7 @@ Thank you for considering a contribution! This guide explains how to report issu
 
 - Be open to review feedback; updates may be requested before the merge.
 
-## Community and conduct
+## Community and Conduct
 
 - Be respectful, constructive, and welcoming to all contributors.
 - By participating, you agree to follow this project's Code of Conduct (see [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) if present).
