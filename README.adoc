@@ -19,7 +19,7 @@ v1.0, Nov 2025
 == How to Install/Access
 
 * You will need the NTA2 application. (Windows only, for now.) Although, the files are pure plain text, and can be read/edited by anything supporting text.
-* File Format explained in `file-format.md` in `datasets` directory.
+* File Format explained in `FILE-FORMAT.md` in `datasets` directory.
 
 == Who do I talk to?
 
