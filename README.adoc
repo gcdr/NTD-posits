@@ -20,10 +20,14 @@ v1.0, Nov 2025
 
 * You will need the NTA2 application. (Windows only, for now.) Although, the files are pure plain text, and can be read/edited by anything supporting text.
 * File Format explained in `FILE-FORMAT.md` in `datasets` directory.
+* You can find the pre-release executable in the `datasets` directory.
+  - I assure you. There is no malware, spyware, or destructive writing within the program; from this repository on GitHub.
+  - Although, DISCLAIMER. Use at your own risk. I assume no liability for your system.
+  - When the full source is released, in Jan. or Feb. 2026. You can inspect it and build it on your own, from Lazarus.
 
 == Who do I talk to?
 
-* The hand!
+* The Maintainer.
 
 == Why Support Open Source?
 
